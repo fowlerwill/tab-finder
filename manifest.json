@@ -1,0 +1,31 @@
+{
+  "applications": {
+    "gecko": {
+      "strict_min_version": "60.0b"
+    }
+  },
+  "browser_action": {
+    "browser_style": true,
+    "default_icon": "icons/logo-32.png",
+    "default_title": "tab-finder",
+    "default_popup": "tab-finder.html"
+  },
+  "commands": {
+    "_execute_browser_action": {
+      "suggested_key": {
+        "default": "Ctrl+Shift+F"
+      }
+    }
+  },
+  "description": "Easily find that tab",
+  "icons": {
+    "48": "icons/logo-48.png"
+  },
+  "homepage_url": "https://github.com/fowlerwill/tab-finder",
+  "manifest_version": 2,
+  "name": "tab-finder",
+  "permissions": [
+    "tabs"
+  ],
+  "version": "1.0"
+}

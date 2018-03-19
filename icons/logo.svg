@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   sodipodi:docname="logo.svg">
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4588">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop4584" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop4586" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4508"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop4506" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4588"
+       id="linearGradient4590"
+       x1="30.788701"
+       y1="130.80435"
+       x2="135.05375"
+       y2="130.80435"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.8"
+     inkscape:cx="143.31477"
+     inkscape:cy="92.139222"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1057"
+     inkscape:window-x="1234"
+     inkscape:window-y="1072"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="opacity:1;fill:#666573;fill-opacity:0.78333285;stroke:#0c1013;stroke-width:1.23287368;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M -8.7832088,270.36119 H 18.441604 l 13.025449,26.5864 H -9.7331733 Z"
+       id="rect4625"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="opacity:1;fill:#666573;fill-opacity:0.78333285;stroke:#0c1013;stroke-width:1.23287368;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M -8.7832088,270.36119 H 13.634402 l 13.025489,26.5864 h -48.468592 z"
+       id="rect4625-1"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
+    <rect
+       id="rect3699"
+       width="17.940445"
+       height="18.545179"
+       x="201.25243"
+       y="171.78519"
+       style="opacity:1;fill:#ffffff;fill-opacity:0.78333285;stroke:#182026;stroke-width:4.68312025;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       ry="8.9702225"
+       transform="rotate(45)" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:4.68312025;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M -1.6921443,299.04 C 0.28964742,296.84961 12.910492,284.43737 12.910492,284.43737"
+       id="path4622"
+       inkscape:connector-curvature="0" />
+    <path
+       style="opacity:1;fill:#666573;fill-opacity:0.78333285;stroke:#0c1013;stroke-width:1.23287368;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M -13.59057,270.36118 H 8.8269664 L 21.852413,296.94759 H -26.61602 Z"
+       id="rect4625-1-6"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
+  </g>
+</svg>
