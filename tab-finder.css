@@ -60,21 +60,9 @@ section {
   padding: 0 5px;
 }
 
-#title {
-
-}
-
-#search {
-
-}
-
 #search-input {
   width: 100%;
   font-size: 18px;
-}
-
-#tabs {
-
 }
 
 #tabs__list li {

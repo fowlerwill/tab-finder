@@ -1,7 +1,7 @@
 {
   "applications": {
     "gecko": {
-      "strict_min_version": "60.0b"
+      "strict_min_version": "60.0"
     }
   },
   "browser_action": {
@@ -27,5 +27,5 @@
   "permissions": [
     "tabs"
   ],
-  "version": "1.0"
+  "version": "1.1"
 }
