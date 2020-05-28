@@ -67,7 +67,13 @@ window.addEventListener('keydown', (e) => {
  */
 function tabLinkFactory(tab) {
   let tabLink = document.createElement('a');
-  tabLink.textContent = tab.title || tab.id;
+  let title = tab.title || tab.id;
+  if (tab.audible === true) {
+    title += " | 🔊"
+  } else if (tab.mutedInfo.muted === true) {
+    title += " | 🔇"
+  }
+  tabLink.textContent = title;
   tabLink.setAttribute('href', tab.id);
 
   // Attach a navigation action to click events.
