@@ -20,9 +20,7 @@
   },
   "description": "Easily find that tab",
   "icons": {
-    "32": "icons/logo-32.png",
-    "48": "icons/logo-48.png",
-    "64": "icons/logo-64.png"
+    "32": "icons/logo-32.png"
   },
   "homepage_url": "https://github.com/fowlerwill/tab-finder",
   "manifest_version": 2,
@@ -30,5 +28,5 @@
   "permissions": [
     "tabs"
   ],
-  "version": "1.2"
+  "version": "1.3"
 }
