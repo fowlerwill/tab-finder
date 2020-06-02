@@ -47,7 +47,7 @@ html, body {
   background: #fafafa;
   font-family: Arial, Helvetica, sans-serif;
   font-size: 14px;
-  padding: 5px 0;
+  padding: 0;
   overflow-x: hidden;
 }
 
@@ -55,14 +55,22 @@ h1 {
   font-size: 12px;
 }
 
-section {
-  margin: 7px 0;
-  padding: 0 5px;
-}
-
 #search-input {
   width: 100%;
   font-size: 18px;
+  padding: 8px 10px;
+  border: none;
+  border-bottom: 2px solid rgb(76, 127, 178);
+  background: rgba(76, 127, 1780, 0.7);
+  color: white;
+}
+#search-input ::placeholder {
+  color: white;
+  opacity: 1;
+}
+#tabs {
+  overflow-y: scroll;
+  max-height: 300px;
 }
 
 #tabs__list li {
@@ -73,11 +81,27 @@ section {
 #tabs__list li a {
   color: black;
   text-decoration: none;
-  padding: 3px;
+  padding: 8px 10px;
   display: block;
 }
 
-#tabs__list li.active {
-  background: rgba(100, 100, 100, 0.6);
+#tabs__list li a:hover {
+  background: rgba(76, 127, 178, 0.2);
 }
 
+#tabs__list li a.audible::before {
+  content: '🔊 '
+}
+
+#tabs__list li a.muted::before {
+  content: '🔇 '
+}
+
+#tabs__list li.active {
+  background: rgba(76, 127, 178, 0.6);
+}
+
+#tabs__list li.active a {
+  color: white !important;
+  font-weight: bold;
+}
