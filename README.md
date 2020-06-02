@@ -13,4 +13,4 @@ Because you have too many tabs open, and you remember very little about the tab 
 ### To install:
 [See the addon in the store](https://addons.mozilla.org/en-US/firefox/addon/super-tab-finder/), that should do the trick.
 ### To use:
-`Ctrl + Shift + F` (`Cmd + Shift + E` on mac) will open the tab switcher, type in the tab you vaguely recall, hit enter and go. Use up/down arrows to select from the list.
+`Ctrl + Shift + F` (`Command + Shift + E` on Mac) will open the tab switcher, type in the tab you vaguely recall, hit enter and go. Use up/down arrows to select from the list.
